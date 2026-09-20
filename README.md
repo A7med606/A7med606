@@ -1,48 +1,29 @@
-# Hi there 👋, I'm Ahmed Said Ahmed
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:051c0d,100:00ff66&height=120&section=header&text=AHMED%20SAID%20AHMED&fontSize=32&fontColor=00ff66&fontStyle=bold&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Cyber-Sec%20Enthusiast&descSize=14&descColor=00ff66" />
 </p>
 
-I am a **Software Engineer** and Full-Stack Web Developer based in Hurghada, Egypt. Passionate about building robust web applications, integrating local AI environments, and bridging the gap between cutting-edge technology and real-world business solutions—ranging from smart inventory systems to marine tourism platforms.
-
----
-
-### 💻 Tech Stack & Skills
-
-* **Languages & Core:** Python, JavaScript, HTML5/CSS3, SQL
-* **Frameworks & Web:** Flask, WordPress, Elementor
-* **DevOps & Tools:** Docker, Linux, Git, GitHub, Hostinger AI
-* **Databases & Architecture:** Relational Databases, Custom CRM & Inventory Workflows
-* **Specialties:** Full-Stack Web Development, Local LLM Integration, API & Automation Scripts
-
----
-
-### 🚀 Projects & Ventures
-
-* **[Poseidon Trips](https://poseidon-trips.com):** Founded and developed a marine excursion enterprise in Hurghada, providing seamless web booking experiences, B2B operational workflows, and digital promotional assets for Red Sea island destinations (Orange Bay, Paradise, Ozeira, Hula Hula).
-* **Supermarket Inventory & Expiry Tracking System:** Built custom Python/Flask and Google Sheets-based inventory management tools designed to track stock levels, barcodes, and expiration alerts efficiently.
-* **Freelance Web Solutions:** Delivered tailored web applications, landing pages, and booking systems for diverse clients on Upwork and local markets.
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=root@poseidon-system:~%23+Initializing+kernel...;Access+Level:+Senior+Software+Engineer;Executing:+Full_Stack_Development.py;Deploying:+Poseidon_Trips+&+Smart_Inventory_Systems;System+Status:+Ready+for+New+Missions..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+### ⚡ `[root@github ~#] cat profile_overview.sh`
 
-* **Email:** [ahmedsaid88899@gmail.com](mailto:ahmedsaid88899@gmail.com) 
-* **Upwork / Freelance:** Available for select software engineering and web development projects.
-* **Location:** Hurghada, Red Sea, Egypt
+```bash
+#!/bin/env python3
+# -*- coding: utf-8 -*-
 
-⭐ *Feel free to check out my repositories and reach out if you want to collaborate on exciting tech or travel-tech projects!*
+class Developer:
+    def __init__(self):
+        self.name = "Ahmed Said Ahmed"
+        self.role = "Software Engineer & Full-Stack Developer"
+        self.location = "Hurghada, Egypt"
+        self.focus = ["Web Applications", "Local LLM Integration", "Docker & Linux Environments", "Automation"]
+        self.enterprise = "Founder of Poseidon Trips"
+
+    def get_status(self):
+        return "🔥 Open to high-impact software engineering opportunities & collaborations."
+
+dev = Developer()
+print(f"[*] Loaded profile for: {dev.name} | {dev.role}")
