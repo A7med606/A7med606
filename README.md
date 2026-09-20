@@ -41,7 +41,7 @@ I am a **Software Engineer** and Full-Stack Web Developer based in Hurghada, Egy
 
 ### 📬 Let's Connect
 
-* **Email:** [ahmed@example.com](mailto:ahmed@example.com) *(قم بتعديل بريدك الإلكتروني هنا)*
+* **Email:** [ahmedsaid88899@gmail.com](mailto:ahmedsaid88899@gmail.com) 
 * **Upwork / Freelance:** Available for select software engineering and web development projects.
 * **Location:** Hurghada, Red Sea, Egypt
 
