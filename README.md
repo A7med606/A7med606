@@ -1,4 +1,7 @@
-<p align="center">
+#!/bin/env python3
+# -*- coding: utf-8 -*-
+
+readme_content = """<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:04150d,100:00ff66&height=150&section=header&text=AHMED%20SAID%20AHMED&fontSize=34&fontColor=00ff66&fontStyle=bold&animation=fadeIn&fontAlignY=50&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Systems%20Architect&descSize=14&descColor=00ff66" />
 </p>
 
@@ -13,11 +16,11 @@
 ```python
 #!/bin/env python3
 # -*- coding: utf-8 -*-
-"""
+\"\"\"
 Project: Core Developer Profile Engine
 Author: Ahmed Said Ahmed
 Location: Hurghada, Red Sea, Egypt
-"""
+\"\"\"
 
 class EngineerProfile:
     def __init__(self):
